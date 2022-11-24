@@ -1,0 +1,6 @@
+# Function dependencies, for example:
+# package>=version
+google.cloud.firestore
+functions-framework==2.3.0
+functions-framework==3.*
+firestore_mock: ^0.0.6
